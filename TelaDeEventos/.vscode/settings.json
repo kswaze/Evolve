@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "telas",
+        "package"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": []
+}
